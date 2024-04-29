@@ -1,0 +1,2 @@
+2024-04-29 00:46:57,839 - model.pytorch.dcrnn_supervisor - INFO - Log directory: data/model/dcrnn_L_1_h_1_8_lr_0.01_bs_1_0429004657_34/
+2024-04-29 00:46:57,870 - model.pytorch.dcrnn_supervisor - INFO - Model created
